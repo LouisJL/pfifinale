@@ -8,7 +8,7 @@ html body {
 
 #backgroundAccueil {
     min-width: 40ch;
-    background-image: url(../images/Accueil.jpg);
+    background-image: url(../images/accueil.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100%;
@@ -19,7 +19,7 @@ html body {
 }
 
 #titreHeader {
-    background-image: url(../images/Bannière.avif);
+    background-image: url(../images/bannière.avif);
     height: 4ch;
     font-size: 1.5em;
     color: white;
@@ -44,7 +44,7 @@ main {
 }
 
 #photo {
-    content: url(../images/Louis.jpg);
+    content: url(../images/louis.jpg);
     height: 500px;
     width: auto;
     object-fit: contain;
